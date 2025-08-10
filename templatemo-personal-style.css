@@ -1,10 +1,4 @@
-/*
 
-TemplateMo 593 personal shape
-
-https://templatemo.com/tm-593-personal-shape
-
-*/
 
 @charset "utf-8";
 /* CSS Document */
@@ -49,7 +43,7 @@ https://templatemo.com/tm-593-personal-shape
 
         .footer-content {
             display: flex;
-            justify-content: space-between;
+            justify-content:center;
             align-items: center;
             flex-wrap: wrap;
             gap: 1rem;
@@ -1205,4 +1199,5 @@ https://templatemo.com/tm-593-personal-shape
             .container {
                 padding: 0 1rem;
             }
+
         }
