@@ -1,10 +1,6 @@
-/*
 
-TemplateMo 593 personal shape
 
-https://templatemo.com/tm-593-personal-shape
 
-*/
 
 // JavaScript Document
 
@@ -168,4 +164,5 @@ https://templatemo.com/tm-593-personal-shape
                 mobileMenu.classList.remove('active');
                 document.body.style.overflow = 'auto';
             }
+
         });
